@@ -111,8 +111,14 @@ img {
   padding-left: 500px;
   float: right;
   margin-top:-500px;
-  margin-left:150px;
+  margin-left:200px;
   display:block;
+}
+
+.miyazaki {
+ padding-top: 150px;
+width:200px;
+height:200px;
 }
 
 
@@ -123,7 +129,7 @@ body{
 
 .txt {
   line-height :3.0;
-  font-size:50px;
+  font-size:30px;
 }
 
 p {
@@ -133,6 +139,7 @@ p {
 #about
 {
 background-color:rgb(114, 245, 114);
+height:750px;
 }
 
 .komura{
@@ -149,7 +156,7 @@ margin-bottom:50px;
 
 .k  {
   font-size:50px;
-  margin-top:100px;
+  margin-top:50px;
   
 }
 
@@ -163,20 +170,20 @@ margin-bottom:50px;
 #history {
 background: url("../img/OIP.jpg") no-repeat center; 
 background-size: cover;
+
 }
 
 #nature {
   background: url("../img/R8bc9dbbd46f4e37c1a0f6f6c2461f0b0.jpg") no-repeat center;
   background-size:cover;
+  height:1000px;
 }
 
 .toi {
   font-size:50px;
 } 
 
-#toi {
-  font-size:50px;
-}
+
 
 .chi {
   margin-top: 50px;
@@ -206,7 +213,7 @@ footer {
 }
 
 .inner p {
-  font-size: 50px;
+  font-size: 30px;
 }
 
 
@@ -223,12 +230,15 @@ background-size:cover;
   margin-left:-400px;
  float: left;
  margin-right:70px;
+ height:200px;
+ width:500px;
 }
  
   .be {
   margin-left:-350px;
   float:left;
-  
+  height:200px;
+  width:500px;
   }
 
 .n {
@@ -248,12 +258,12 @@ background-size:cover;
 }
 
 .n p {
-  font-size:40px;
+  font-size:30px;
  
 }
 
 .a p {
-  font-size:40px;
+  font-size:30px;
    margin-right:50px;
 }
 
